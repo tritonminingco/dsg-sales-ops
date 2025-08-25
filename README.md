@@ -62,14 +62,14 @@ Goals completed in this repo:
 - Expected JSON body: { name, email, company, role, phone, message, responses }
 - Response: { success: true, message?: string }
 
-This endpoint is intentionally minimal. If you want, I can implement a Vercel serverless function that receives the lead and forwards to an email or stores it in a Google Sheet / database.
 
-## Notes & next steps
 
-- If you'd like real lead persistence, tell me where to send leads (email, Google Sheet, or database) and I'll implement it as a serverless function.
-- I can add a GitHub Action that runs `npm run build` on push and checks for build success automatically.
 
-If you want me to push a commit, or wire an actual persistence backend, say which option and I'll do it.
+
+
+
+
+
 
 
 
