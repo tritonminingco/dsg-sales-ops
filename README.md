@@ -1,4 +1,4 @@
-DSG-sales-Ops
+## DSG-sales-Ops
 
 This repo contains a small React app (Vite) for booking demos and demonstrating the DeepSeaGuard landing flow.
 
