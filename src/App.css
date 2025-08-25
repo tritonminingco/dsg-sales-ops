@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #0f172a;
+  color: #fff;
+}
+
+input, textarea, button {
+  font-family: inherit;
+}
+
+/* Add more styles as needed for your app */
